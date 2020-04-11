@@ -4,3 +4,6 @@
 [submodule "front/css-t1"]
 	path = front/css-t1
 	url = git@github.com:bobbyliu117/css-t1.git
+[submodule "front/css-t2"]
+	path = front/css-t2
+	url = git@github.com:bobbyliu117/css-t2.git
