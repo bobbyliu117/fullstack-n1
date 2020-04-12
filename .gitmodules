@@ -7,3 +7,9 @@
 [submodule "front/css-t2"]
 	path = front/css-t2
 	url = git@github.com:bobbyliu117/css-t2.git
+[submodule "front/css-t3"]
+	path = front/css-t3
+	url = git@github.com:bobbyliu117/css-t3.git
+[submodule "front/js-t1"]
+	path = front/js-t1
+	url = git@github.com:bobbyliu117/js-t1.git
