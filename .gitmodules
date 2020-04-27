@@ -13,3 +13,6 @@
 [submodule "front/js-t1"]
 	path = front/js-t1
 	url = git@github.com:bobbyliu117/js-t1.git
+[submodule "front/js-t2"]
+	path = front/js-t2
+	url = git@github.com:bobbyliu117/js-t2.git
